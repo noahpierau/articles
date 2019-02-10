@@ -8,7 +8,7 @@ Compare | Dash | Decred
 :---: | --- | ---
 *Background* | | 
 Project origin | XCoin / Darkcoin (source: [1], [2])| Memcoin2 (source: [3], [4], [5])
-Initial distribution | instamine; 10-15% of total supply (source: [6], [7])| premine; 8% of total supply (source: [8])
+Initial distribution | instamine; 10-15% of supply (source: [6], [7])| premine; 8% of supply (source: [8])
  | | 
 *Hybrid consensus* | | 
 PoW mining | X11 (source: [9], [10]) | Blake-256 14r (source: [11], [12])
