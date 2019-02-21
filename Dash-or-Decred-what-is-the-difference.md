@@ -7,16 +7,16 @@ It is the aim to provide a **neutral comparisson table** between these two block
 Compare | Dash | Decred
 :---: | --- | ---
 *Background* | | 
-Project origin | XCoin / Darkcoin (source: [1], [2])| Memcoin2 (source: [3], [4], [5])
-Initial distribution | instamine; 10-15% of supply (source: [6], [7])| premine; 8% of supply (source: [8])
+Project origin | XCoin / Darkcoin ([1], [2])| Memcoin2 ([3], [4], [5])
+Initial distribution | instamine; 10-15% of supply ([6], [7])| premine; 8% of supply ([8])
  | | 
 *Hybrid consensus* | | 
-PoW mining | X11 (source: [9], [10]) | Blake-256 14r (source: [11], [12])
-PoS voting | masternodes (source: [13]) | tickets (source: [14])
+PoW mining | X11 ([9], [10]) | Blake-256 14r ([11], [12])
+PoS voting | masternodes ([13]) | tickets ([14])
  | | 
 *Governance* | | 
-Funding development | superblocks; allocation via on-chain budget votes (source: [15a]) | treasury address; allocation via off-chain proposal votes (source: [15b])
-Protocol upgrades | Dash Core Group Inc. (source: [16]) | PoS voters (source: [17])
+Funding development | superblocks; allocation via on-chain budget votes ([15a]) | treasury address; allocation via off-chain proposal votes ([15b])
+Protocol upgrades | Dash Core Group Inc. ([16]) | PoS voters ([17])
  | | 
 
 [1]: https://bitcointalk.org/index.php?topic=421615.0
@@ -55,6 +55,6 @@ Protocol upgrades | Dash Core Group Inc. (source: [16]) | PoS voters (source: [1
 12. https://whattomine.com/coins/152-dcr-blake-14r
 13. https://dash-docs.readthedocs.io/en/stable/masternodes/
 14. https://docs.decred.org/proof-of-stake/proof-of-stake/
-15. Dash (a): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#7348 Decred (b): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#a615
+15. https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad Dash (a): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#7348 Decred (b): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#a615
 16. https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
 17. https://docs.decred.org/governance/consensus-rule-voting/consensus-rules-voting/
