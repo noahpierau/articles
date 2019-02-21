@@ -55,6 +55,8 @@ Protocol upgrades | Dash Core Group Inc. ([16]) | PoS voters ([17])
 12. https://whattomine.com/coins/152-dcr-blake-14r
 13. https://dash-docs.readthedocs.io/en/stable/masternodes/
 14. https://docs.decred.org/proof-of-stake/proof-of-stake/
-15. https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad Dash (a): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#7348 Decred (b): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#a615
+15. https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad 
+Dash (a): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#7348 
+Decred (b): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#a615
 16. https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
 17. https://docs.decred.org/governance/consensus-rule-voting/consensus-rules-voting/
