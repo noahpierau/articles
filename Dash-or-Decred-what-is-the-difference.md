@@ -15,8 +15,8 @@ PoW mining | X11 ([9], [10]) | Blake-256 14r ([11], [12])
 PoS voting | masternodes ([13]) | tickets ([14])
  | | 
 *Governance* | | 
-Funding development | superblocks; allocation via on-chain budget votes ([15a]) | treasury address; allocation via off-chain proposal votes ([15b])
-Protocol upgrades | Dash Core Group Inc. ([16]) | PoS voters ([17])
+Funding development | superblocks; allocation via on-chain budget votes ([15]) | treasury address; allocation via off-chain proposal votes ([16])
+Protocol upgrades | Dash Core Group Inc. ([17]) | PoS voters ([18])
  | | 
 
 [1]: https://bitcointalk.org/index.php?topic=421615.0
@@ -33,10 +33,10 @@ Protocol upgrades | Dash Core Group Inc. ([16]) | PoS voters ([17])
 [12]: https://whattomine.com/coins/152-dcr-blake-14r
 [13]: https://dash-docs.readthedocs.io/en/stable/masternodes/
 [14]: https://docs.decred.org/proof-of-stake/proof-of-stake/
-[15a]: https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#7348
-[15b]: https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#a615
-[16]: https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
-[17]: https://docs.decred.org/governance/consensus-rule-voting/consensus-rules-voting/
+[15]: https://docs.dash.org/en/stable/governance/understanding.html
+[16]: https://docs.decred.org/governance/introduction-to-decred-governance/
+[17]: https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
+[18]: https://docs.decred.org/governance/consensus-rule-voting/consensus-rules-voting/
 
 
 ## Sources:
@@ -55,8 +55,7 @@ Protocol upgrades | Dash Core Group Inc. ([16]) | PoS voters ([17])
 12. https://whattomine.com/coins/152-dcr-blake-14r
 13. https://dash-docs.readthedocs.io/en/stable/masternodes/
 14. https://docs.decred.org/proof-of-stake/proof-of-stake/
-15. https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad 
-- Dash (a): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#7348 
-- Decred (b): https://medium.com/@richardred/decentralized-autonomous-funding-of-blockchain-projects-3c0c233ae4ad#a615
-16. https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
-17. https://docs.decred.org/governance/consensus-rule-voting/consensus-rules-voting/
+15. https://docs.dash.org/en/stable/governance/understanding.html
+16. https://docs.decred.org/governance/introduction-to-decred-governance/
+17. https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary
+18. https://docs.decred.org/governance/consensus-rule-voting/consensus-rules-voting/
