@@ -10,11 +10,9 @@ It is the aim to provide a **neutral comparisson table** between these two block
 Announcement | <ul><li>XCoin in January 2014 ([1])</li><li>Dash in March 2015 ([2])</li></ul> | <ul><li>Memcoin2 in April 2013 ([3])</li><li>Decred in December 2015 ([4])</li></ul>
 Genesis block | mined on 19 January 2014 ([5]) | mined on 8 February 2016 ([6])
 Distribution | instamine; 10-15% of supply ([7])| premine; 8% of supply ([8])
- | | 
 **Hybrid consensus** | | 
 PoW mining | X11 ([9], [10]) | Blake-256 14r ([11], [12])
 PoS voting | masternodes ([13]) | tickets ([14])
- | | 
 **Governance** | | 
 Funding development | superblocks; allocation via on-chain budget votes ([15]) | treasury address; allocation via off-chain proposal votes ([16])
 Protocol upgrades | Dash Core Group ([17]) | PoS voters ([17])
