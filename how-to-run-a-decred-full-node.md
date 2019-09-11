@@ -4,7 +4,7 @@
 Reasons are the same as in most other digital currencies: support the decentralized network.
 
 **How?**
-You can use all kinds of devices to run a Decred full node. Simply follow the steps below to set it up and find a place to leave it running; your node won't need a lot of maintenance.
+You can use all kinds of devices to run a Decred full node. Simply follow the steps below to set it up and find a place to leave it running. The node won't need a lot of maintenance.
 
 ### Requirements:
 - Reliable internet connection
@@ -24,9 +24,9 @@ You can use all kinds of devices to run a Decred full node. Simply follow the st
     - https://docs.decred.org/wallets/cli/os-differences/
 3. Simply configure dcrd, you don't need a wallet
     - Open a terminal (command line) in the folder that contains the software
-    - Run the command for your operating system to start dcrd
+    - Run the command for your OS to start dcrd
     - Keep dcrd running to download the Decred blockchain
-4. While dcrd is syncing, figure out you local and external IP address
+4. While dcrd is syncing, figure out your local and external IP address
     - Local IP: [method will differ for each OS](https://www.howtogeek.com/236838/how-to-find-any-devices-ip-address-mac-address-and-other-network-connection-details/)
     - External IP: https://whatismyipaddress.com/
 5. Edit the settings of your router to open port 9108 (port forwarding)
