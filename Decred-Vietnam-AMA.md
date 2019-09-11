@@ -1,6 +1,9 @@
 ### Transcript of the Decred Vietnam AMA organized by Coin98
 Since there were lots of comments (more than 300) I only copied the questions and answers. I also left out the names of the question submitters for privacy reasons (some people submitted more than 1 question).
 
+Date: 24th of August 2019
+Place: [Coin98 Facebook Group](https://www.facebook.com/groups/Coin98.Net/)
+
 * Welcome Viet and Noah to our AMA. I'm glad that you're here with us
     - Viet: I am excited to be here. Thank you for the AMA and be hoping more peoples will know more about DCR and get the reward. Regard!
     
