@@ -87,16 +87,17 @@ The proposed new messaging is Stakeholder-Governed Sound Money that is more Fair
 Personally, i think it lacks creativity and vision. It's trying to describe the project but uses the wrong words (or words that do not resonate with me).
 
 1. every crypto project is stakeholder governed, so that's not unique to DCR. Especially when you use a wide definition of the term stakeholder (benevolent dictators also hold coins). The differentiator rather is: permissionless formal governance systems that are resistant to censorship.
-2. while i don't know much about sound money, in two definitions i could find via duckduckgo it says: "Sound money is money that is not prone to sudden appreciation or depreciation in purchasing power over the long term" and "Sound money definition is - money not liable to sudden appreciation or depreciation in value : stable money". It seems the word "sound" does not really apply to DCR in this definition, because the price at which DCR was valued has changed significantly over the last few years.
+2. while i don't know much about sound money, in two definitions i could find via duckduckgo it says: "Sound money is money that is not prone to sudden appreciation or depreciation in purchasing power over the long term" and "money not liable to sudden appreciation or depreciation in value : stable money". It seems the word "sound" does not really apply to DCR in this definition, because the price at which DCR was valued has changed significantly over the last few years.
 3. the RFP also mentioned "fair" which is another risky word choice. The question "fair for whom" is relevant here. Maybe Decred is fair to people who picked up DCR for a low price? Because for others it may not feel fair.
 
 ## Summarise your changes here
 
 What would the tagline change to? 
-Decred supports independent communities around the world
-DCR is community money that is Secure, Adaptable, Sustainable 
 
-What other changes would you make (be detailed)?: 
+* Decred supports independent communities around the world
+* DCR is community money that is Secure, Adaptable, Sustainable 
+
+What other changes would you make (be detailed)? 
 
 Do these changes impact any other aspects of the site? 
 
