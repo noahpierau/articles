@@ -4,54 +4,16 @@
 
 There is a [new RFP](https://proposals.decred.org/proposals/91becea) on Politiea that aims to solicit community feedback around Decred's messaging and includes an [example post](https://gist.github.com/RichardRed0x/22c584e7fd9413c1a3f3284069998892) that iterates some of the copy. 
 
-It is worth reiterating that there are **two major aspects** to this initiative.
+In this post, i will critically examine the suggested copy and collect alternative ways of telling Decred's message to the world.
 
-1. Decred is discussing changes to its messaging and by definition, articulating its value proposition.
-2. This is the first RFP that solicits alternative proposals and then formalises the voting. 
+Narratives and marketing approaches to explain the project to outsiders have shifted over time and i see this as a natural process. Multiple narratives may coexist, this is something we [see in Bitcoin](https://uncommoncore.co/visions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time/) as well. 
 
-The proposal contains a comment from Ammar, which prompted this post. 
+Institutional investors such as[Blockhead Capital](https://www.blockheadcap.com/post/decred-investment-thesis) and [Placeholder](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) among others have  outlined their DCR 'investment' theses, whilst community members have offered [alternative narrative paths](https://www.reddit.com/r/decred/comments/hg2a9k/forward_thinking_friday_decred_narratives_26_june/). All these different ways of explaing Decred are relevant for this RFP.
 
-    I'm interested in contributing towards this, but I am not a developer. If anyone is interested in partnering up, I'd be excited to help make this happen.
-
-## What does success look like from a 'governance perspective'? 
-
-Decred has pioneered many aspects of decentralised governance and the complex machinery that makes this possible, from the [Politeia proposal](https://proposals.decred.org/proposals) and voting system, to the [Contractor Management System](https://github.com/decred/contractor-mgmt) for aiding transparent delivery of approved proposals and the soon to be [decentralised treasury](https://www.reddit.com/r/decred/comments/ic0cit/jz_on_twitter_ive_been_watching_marco_peereboom/), which puts the fund in the hands of stakeholders.
-
-The arrival of both the RFP process and a fundamental debate on the positioning of the project marks two new advances in this arena and provides a great platform to demonstrate both the utility of the system and the collective intelligence of a distributed community. 
-
-Ammar ([here](https://medium.com/@Ammarooni/why-we-need-decred-an-inclusive-approach-to-sound-money-db2f990c107b)) and Checkmatey have written at length about their views on 'What Decred is' but as I'm sure they will also accept, their understanding and approach to explaining the project to outsiders has shifted over time. 
-
-At the same time [Blockhead Capital](https://www.blockheadcap.com/post/decred-investment-thesis) and [Placeholder](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) among others have also outlined their 'investment' theses, whilst community members have also posited [alternative narrative paths](https://www.reddit.com/r/decred/comments/hg2a9k/forward_thinking_friday_decred_narratives_26_june/). 
-
-Personally this 'positioning' riddle has been at the heart of many of my [interactions](https://github.com/monsieurbulb/forksintheroad) with the community, so I am fascinated to see this process play out. 
-
-Success with this RFP will come when there are a range of proposals, each bringing different insights that can be weighed against each other in a formal setting. 
-
-Therefore the intention of this piece is two fold:
-
-1. Build on the example to offer a cheat sheet of sorts for those wishing to develop and submit alternative proposals.
-2. Lower the barrier to entry for submissions and in turn drive meaningful use of the RFP system.
-3. Procure interesting perspectives and insights from the community that can iterate/evolve the messaging. 
 
 ## Thinking through messaging
 
-For those who already have strong views on the way they would position Decred the following may be useful, for those who have some ideas or instincts but no framework with which to test your messaging, then hopefully this will be helpful. 
-
-### Step 1.
-
-Login / create a Github account, fork this gist and rename it to something distinctive. 
-
-e.g. DCR-storeofvalue-proposal, DCR-dao-proposal, 'DCR-cyberneticorganism-proposal'. 
-
-### Step 2.
-
-Work through the steps below 
-
-*Note: Some of the following was first posted as a '[workshop wednesday](https://https://www.reddit.com/r/decred/comments/hj7n52/what_is_decred_workshopwednesday/)' on Decred's Reddit.*
-
-In any narrative development there are typically four key stages.
-
-This approach gives structure to storytelling and applies pretty much universally - from business to filmmaking and yes, even crypto-networks.
+In any narrative development there are typically four key stages. This approach used by @mrbulb gives structure to storytelling and it applies pretty much universally - from business to filmmaking and yes, even crypto-networks.
 
     Insight - the big picture, what is the context to the story you are telling?
 
@@ -61,13 +23,6 @@ This approach gives structure to storytelling and applies pretty much universall
 
     How it works - so now explain how the solution works, from high level to deep dive...
 
-This structured approach can waterfall across every aspect of a project, from a helicopter perspective to deep down into the weeds of a complex technology such as the DEX.
-
-(Depending on your experience and expertise, helicopter and deep in the weeds are also subjective).
-
-Over time these narratives will evolve, but the structure always stays the same.
-
-It is also how Politeia proposals are generally structured.
 
 Example:
 
@@ -83,42 +38,25 @@ Let's take the (simplified) original positioning of the world's most famous comp
 
 You can see how Apple benefitted from Steve Job's marketing insight [here](https://www.youtube.com/watch?v=keCwRdbwNQY) and is where the 'Think Different' slogan was born from. Note that the slogan isn't about the technology, it's about what human sensibility the technology appeals to... He uses the same framework, the 'why' comes before the 'what'. 
 
-The same applies to Nike's 'Just Do It'. It's not about explaining technology, it's about humanity. 
-
 Let's check Decred's positioning (per website) against this structure.
 
     Insight - ?
 
     Problem - ?
 
-    Solution - Introducing Decred, a community directed superior store of value 
-    (this is **the concept** derived from the insight and problem).
+    Solution - Introducing Decred, a community directed superior store of value.
 
     How it works - It is secure. It is sustainable. It is adaptable.
 
 Currently Decred's introduction misses two key steps - context and problem.
 
-For many in the community those steps are self-evident...
-
-    There are two young fish swimming along who happen to meet an older fish.
-
-    The older fish nods at them and says:
-
-    ‘Morning boys, how’s the water?’
-
-    The two young fish swim on for a bit and then eventually one of them looks over at the other and asks:
-
-    ‘What the hell is water?’
-
-    — David Foster Wallace.
-
-For newcomers and indeed for those less well versed in the history of Bitcoin (aka the vast majority of crypto) it is much harder to grasp the key stages of the story.
+For many in the community those steps may be self-evident, but for newcomers and for those less well versed in the history of Bitcoin (aka the vast majority of crypto) it is much harder to grasp the key stages of the story.
 
 An example revison of Decred's positioning statements.
 
-    Insight - The existing financial system is unfair but...
+    Insight - The existing financial system is inherently broken...
 
-    Problem - There is no way to store and transmit value on the internet
+    Problem - There is no way to store and transact value on the internet
 
     Solution - Introducing Decred, a community directed superior store of value
 
@@ -128,55 +66,18 @@ An example revison of Decred's positioning statements.
 
 The details above are on the website, but the narrative does not have a clear through line.
 
-Let's outline two other potential solutions (aka what Decred is for).
+Technology can be world leading, but if the story doesn't connect, the tech alone won't matter. The reverse is also true - great storytelling will take you a long way, but if there aren't strong foundations to back up your claims, then trust will be shortlived.. 
 
-    Insight - ?
+### Things to consider 
 
-    Problem - ?
-
-    Solution - Introducing Decred, a fairer financial system
-
-    How it works -
-
-    Details...
-
-And also...
-
-    Insight - ?
-
-    Problem - ?
-
-    Solution - Introducing Decred, financial & organisational infrastructue for DAOs.
-
-    How it works -
-
-    Details...
-
-In many ways apathy is a symptom of poor narrative structure just as attention is the flip.
-
-Technology can be world leading, but if the story doesn't connect that doesn't matter. The reverse is also true - great storytelling will take you a long way, but if the aren't strong foundations to back up your claims, then trust will be shortlived.
-
-How would you use this narrative framework to bring alive Decred's various solutions?
-
-You can find some previous inspiration in the comments of Forward Thinking Friday [here](https://www.reddit.com/r/decred/comments/hg2a9k/forward_thinking_friday_decred_narratives_26_june/).
-
-Using the original example as a base, take the insights, ideas and concepts you have refined in Step 2 and apply them to the copy. 
-
-Some  advice: 
-
-- The order of things really matters - prioritise messaging. 
-- Aim for reduction and simplicity at every stage - this will create impact, rather than uncertainty. 
-- Try not to be all things to all people - its a fast-track to appealing to no-one. 
+- The order of text really matters - prioritise. 
+- Aim for reduction and simplicity at every stage - this will create impact. 
 - Consider the messaging is aimed at reaching and influencing - test it out on people / maybe discuss ideas on reddit. 
 
-### Step 3.
+### Key questions
 
 - What is the core insight at the heart of your messaging proposal? 
 - Which audience/s is your proposal aimed at and why? 
-
-### Step 4.
-
-Using the original example as a base, take the insights, ideas and concepts you have refined in **Step 2** and refined in **Step 3** and apply them to the copy (this helps everyone to see the thinking you have gone through). 
 
 ## Summarise your changes here
 
