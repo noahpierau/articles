@@ -13,7 +13,7 @@ In this post, i will critically examine the suggested copy and collect alternati
 
 ## Thinking through messaging
 
-In any narrative development there are typically four key stages. This approach used by @mrbulb gives structure to storytelling and it applies pretty much universally - from business to filmmaking and yes, even crypto-networks.
+In any narrative development there are typically four key stages. This approach used by @monsieurbulb gives structure to storytelling and it applies pretty much universally - from business to filmmaking and yes, even crypto-networks.
 
     Insight - the big picture, what is the context to the story you are telling?
 
@@ -90,26 +90,28 @@ Personally, i think this lacks creativity and vision. It's trying to *describe* 
 2. while i don't know much about sound money, in two definitions i could find via duckduckgo it says: "Sound money is money that is not prone to sudden appreciation or depreciation in purchasing power over the long term" and "money not liable to sudden appreciation or depreciation in value : stable money". It seems the word "sound" does not really apply to DCR in this definition, because the price at which DCR was valued has changed significantly over the last few years.
 3. the RFP also promintently mentions "fairness" which is another questionable word choice. The question "fair for whom? " is relevant here. Maybe Decred is only fair to people who bought DCR for a low price? Because for others it may not feel fair.
 
+To me it seems that the suggested messaging is aimed at people who already understand the project and its fundamentals, not at random newcomers. This will make it difficult to grow Decred beyond the DCR bubble.
+
 ## Suggested changes
 
 Everyone has been invited to participate in the messaging RFP. To me, this symbolizes the true spirit of Decred: a digital collective of sovereign individuals who work together to create value.
 
-The core insight, to me, is that we live in disruptive times in which many activities are moving to the digital realm. Online collaboration with strangers is the next frontier for humanity. 
+The core insight, to me, is that we live in disruptive times in which many activities are moving to the digital realm. Online collaboration with strangers is the next challenge to solve for humanity. 
 
-Let's explore Decred's positioning:
+Let's explore this positioning:
 
-    Insights - in current disruptive times, our lives are increasingly moving to the digital realm. we can not rely of previous financial system to preserve our wealth 
+    Insights - in current disruptive times, our lives are increasingly moving to the digital realm. we cannot rely on old financial systems to preserve our wealth 
 
     Problem - wealth is best protected when people work together. however, online collaboration to create, store and transact value is difficult (especially with strangers)
 
-    Solution - introducing Decred, a digital collective of sovereign individuals who create, store and transact value in a trustless way 
+    Solution - introducing Decred, a digital collective of sovereign individuals who create, store, transact and govern value in a trustless way 
 
     How it works - value can be created in multiple ways (code, content, art, music, video) and is stored and transacted in DCR
 
 
-What would the tagline change to? 
+How would the tagline change? 
 
-* Decred is a digital collective of sovereign individuals 
+* Decred is a community of digital doomsday preppers 
 * DCR is community money that is Secure, Adaptable, Sustainable 
 
 
@@ -122,29 +124,29 @@ To be determined.
 
 ## About me
 
-Airdrop unicorn, Decred community member since day 0. 
-
 My story: [noahpierau.github.io](https://noahpierau.github.io/)
 
-- I have worked alongside _ingsoc and jz to build Decred's community from the ground up. 
-- I have helped several valued contractors get started with working for Decred. 
-- I have represented the project on social media and during offline events.
+Decred community member since day 0.
+
+- I received the Decred airdrop and never sold a single credit from it.
+- I worked with _ingsoc and jz to build Decred's community from the ground up. 
+- I helped several valued contractors get started with working for Decred. 
+- I represented the project on social media and during offline events.
 
 
 ## Estimate of costs for changes + help required from others
 
-I plan to change as little of the existing website as possible. I would only change the messaging / narrative on the homepage and in other strategic places such as link previews and social media descriptions.
+I aim to change as little of the existing website as possible, only on the homepage and in other strategic places such as link previews and social media descriptions.
 
-I am estimating the cost of producing the new copy to be $400, which covers the work already done to prepare the draft, plus some time spent considering and implementing feedback on further changes to it.
+I will produce the new copy for free. The only costs go into implementation, to be done in collaboration with existing contractors such as @jholdstock.
 
-As decred.org is in 12 languages, this new copy would have to be translated 11 times. I am estimating $100 for each translation for an estimated total of $1,100. This is a difficult one to estimate, and my estimate is based on the information that translation of the other site content took 5-8 hours per language.
+As decred.org is in 12 languages, this new copy would have to be translated 11 times. I accept the estimate of $100 for each translation by Richard Red.
 
 ## Costs
 
-| Item           | Estimated Cost | Maximum Budget |
-|----------------|----------------|----------------|
-| Copy           | 400            | 600            |
-| Translation    | 1100           | 1400           |
-| Implementation | 300            | 400            |
-| Total          | 1800           | 2400           |
+| Item           | Estimate | Maximum |
+|----------------|----------|---------|
+| Translation    | 1100     | 1400    |
+| Implementation | 400      | 700     |
+| Total          | 1500     | 2100    |
 
