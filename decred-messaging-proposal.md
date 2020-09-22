@@ -66,30 +66,43 @@ An example revison of Decred's positioning statements.
 
 The details above are on the website, but the narrative does not have a clear through line.
 
-Technology can be world leading, but if the story doesn't connect, the tech alone won't matter. The reverse is also true - great storytelling will take you a long way, but if there aren't strong foundations to back up your claims, then trust will be shortlived.. 
+Technology can be world leading, but if the story doesn't connect, the tech alone won't matter. The reverse is also true. Great storytelling will take you a long way, but if there aren't strong foundations to back up your claims, then trust will be shortlived. 
 
-### Things to consider 
+#### Things to consider 
 
 - The order of text really matters - prioritise. 
 - Aim for reduction and simplicity at every stage - this will create impact. 
 - Consider the messaging is aimed at reaching and influencing - test it out on people / maybe discuss ideas on reddit. 
 
-### Key questions
+#### Key questions
 
-- What is the core insight at the heart of your messaging proposal? 
-- Which audience/s is your proposal aimed at and why? 
+What is the core insight at the heart of the message? 
+
+Which audience is the narrative aimed at and why? 
+
+## Examination of current proposal 
+
+The proposed new messaging is Stakeholder-Governed Sound Money that is more Fair. 
+
+Personally, i think it lacks creativity and vision. It's trying to describe the project but uses the wrong words (or words that do not resonate with me).
+
+1. every crypto project is stakeholder governed, so that's not unique to DCR. Especially when you use a wide definition of the term stakeholder (benevolent dictators also hold coins). The differentiator rather is: permissionless formal governance systems that are resistant to censorship.
+2. while i don't know much about sound money, in two definitions i could find via duckduckgo it says: "Sound money is money that is not prone to sudden appreciation or depreciation in purchasing power over the long term" and "Sound money definition is - money not liable to sudden appreciation or depreciation in value : stable money". It seems the word "sound" does not really apply to DCR in this definition, because the price at which DCR was valued has changed significantly over the last few years.
+3. the RFP also mentioned "fair" which is another risky word choice. The question "fair for whom" is relevant here. Maybe Decred is fair to people who picked up DCR for a low price? Because for others it may not feel fair.
 
 ## Summarise your changes here
 
-What would the tagline change to?: Stakeholder-Governed Sound Money 
+What would the tagline change to? 
+Decred supports independent communities around the world
+DCR is community money that is Secure, Adaptable, Sustainable 
 
 What other changes would you make (be detailed)?: 
 
-Do these changes impact any other aspects of the site?: 
+Do these changes impact any other aspects of the site? 
+
+===
 
 For example: 
-
-- This theme will have a box on the front page and its own page, as with Secure, Adaptable and Sustainable.
 
 ### Amend / Change copy here:
 
