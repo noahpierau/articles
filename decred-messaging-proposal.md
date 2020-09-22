@@ -2,11 +2,13 @@
 
 ## Overview
 
-There is a [new RFP](https://proposals.decred.org/proposals/91becea) on Politiea that aims to solicit community feedback around Decred's messaging and includes an [example post](https://gist.github.com/RichardRed0x/22c584e7fd9413c1a3f3284069998892) that iterates some of the copy. In this post, i will critically examine the suggested copy and collect alternative ways of telling Decred's message to the world.
+There is a [new RFP](https://proposals.decred.org/proposals/91becea) on Politiea that aims to solicit community feedback around Decred's messaging and includes an [example post](https://gist.github.com/RichardRed0x/22c584e7fd9413c1a3f3284069998892) that iterates some of the copy.
 
 Narratives and marketing approaches to explain the project to outsiders have shifted over time and i see this as a natural process. Multiple narratives may coexist, this is something we [see in Bitcoin](https://uncommoncore.co/visions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time/) as well. 
 
 Institutional investors such as [Blockhead Capital](https://www.blockheadcap.com/post/decred-investment-thesis) and [Placeholder](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) (among others) have outlined their DCR investment theses and community members have offered [alternative narrative paths](https://www.reddit.com/r/decred/comments/hg2a9k/forward_thinking_friday_decred_narratives_26_june/). All these different ways of explaing Decred are relevant for this RFP.
+
+In this post, i will critically examine the suggested copy and collect alternative ways of telling Decred's message to the world.
 
 
 ## Thinking through messaging
@@ -90,11 +92,24 @@ Personally, i think this lacks creativity and vision. It's trying to *describe* 
 
 ## Suggested changes
 
-Everyone has been invited to participate in the messaging RFP. To me, this symbolizes the true spirit of Decred: a digital collective of independent individuals who choose to work together.
+Everyone has been invited to participate in the messaging RFP. To me, this symbolizes the true spirit of Decred: a digital collective of sovereign individuals who work together to create value.
+
+The core insight, to me, is that we live in disruptive times in which many activities are moving to the digital realm. Online collaboration with strangers is the next frontier for humanity. 
+
+Let's explore Decred's positioning:
+
+    Insights - in current disruptive times, our lives are increasingly moving to the digital realm. we can not rely of previous financial system to preserve our wealth 
+
+    Problem - wealth is best protected when people work together. however, online collaboration to create, store and transact value is difficult (especially with strangers)
+
+    Solution - introducing Decred, a digital collective of sovereign individuals who create, store and transact value in a trustless way 
+
+    How it works - value can be created in multiple ways (code, content, art, music, video) and is stored and transacted in DCR
+
 
 What would the tagline change to? 
 
-* Decred is a digital collective of independent individuals around the world
+* Decred is a digital collective of sovereign individuals 
 * DCR is community money that is Secure, Adaptable, Sustainable 
 
 
