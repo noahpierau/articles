@@ -124,8 +124,6 @@ Our new narrative could be:
 
 * Decred is an [online squad](https://otherinter.net/squad-wealth/) of sovereign individuals 
 * You can pledge allegiance by obtaining DCR (decentralized credits)
-* If you create value for the collective, you can get paid in DCR
-* Through staking DCR, you become a decision maker with voting rights 
 * Together, we make sure the project is Secure, Adaptable, Sustainable 
 
 Final copy should be determined in collaboration with the wider community. 
@@ -155,7 +153,8 @@ As decred.org has 12 languages, this new copy would have to be translated 11 tim
 
 | Item           | Estimate | Maximum |
 |----------------|----------|---------|
+| Design         | 300      | 300     |
 | Translation    | 1100     | 1400    |
 | Implementation | 400      | 700     |
-| Total          | 1500     | 2100    |
+| Total          | 1800     | 2400    |
 
