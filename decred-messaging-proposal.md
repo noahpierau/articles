@@ -64,7 +64,7 @@ The details above are on the website, but the narrative is not immediately clear
 
 Technology can be world leading, but if the story doesn't connect, the tech alone won't matter. The reverse is also true: great storytelling will take you a long way, but if there aren't strong foundations to back up your claims, then trust will be shortlived. 
 
-#### Things to consider 
+#### Lessons to consider 
 
 - The order of text really matters - prioritise. 
 - Aim for reduction and simplicity at every stage - this will create impact. 
@@ -72,7 +72,7 @@ Technology can be world leading, but if the story doesn't connect, the tech alon
 - Narratives and marketing approaches to explain the project can shift over time. 
 - Multiple narratives may coexist, this is something we [see in Bitcoin](https://uncommoncore.co/visions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time/) as well. q
 
-#### Key questions
+#### Key questions 
 
 What is the core insight at the heart of the message? 
 
@@ -90,36 +90,45 @@ Personally, i think this lacks creativity and vision. It's trying to *describe* 
 
 To me it seems that the suggested messaging is aimed at people who already understand the project and its fundamentals, not at random newcomers. This will make it difficult to grow Decred beyond the DCR bubble.
 
-## Suggested changes
+## Exploring alternatives 
 
 Everyone has been invited to participate in the messaging RFP. To me, this symbolizes the true spirit of Decred: a digital collective of sovereign individuals who work together to create value.
 
 Institutional investors such as [Blockhead Capital](https://www.blockheadcap.com/post/decred-investment-thesis) and [Placeholder](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) (among others) have outlined their DCR investment theses and community members have offered [alternative narrative paths](https://www.reddit.com/r/decred/comments/hg2a9k/forward_thinking_friday_decred_narratives_26_june/). All these different ways of explaing Decred are relevant for this RFP.
 
-The core insight, to me, is that we live in disruptive times in which many activities are moving to the digital realm. Online collaboration with strangers is the next challenge to solve for humanity. 
+It seems that there are 4 messaging categories, each with a different target audience: 
 
-Let's explore this positioning:
+1. cypherpunk, privacy, security, autonomy, freedom, decentralization 
+2. number go up, sound money, 21M max, store of value, profit, rewards
+3. infrastructure, open source, reliable software, quality developers 
+4. relatable stories, inspiration, positivity, celebrities, adoption
+
+Remember: multiple different narratives can coexist. However, we will be more powerful when we create one overarching message that unifies the community. 
+
+### Possible new messaging 
+
+The core insight, to me, is that we live in disruptive times. 
+
+Let's explore this narrative:
 
     Insights - in current disruptive times, our lives are increasingly moving to the digital realm. we cannot rely on old financial systems to preserve our wealth 
 
-    Problem - wealth is best protected when people work together. however, online collaboration to create, store and transact value is difficult (especially with strangers)
+    Problem - wealth is best protected when people work together. however, online collaboration to create and protect value is difficult (especially with strangers)
 
     Solution - introducing Decred, a digital collective of sovereign individuals who create, store, transact and govern value in a trustless way 
 
     How it works - value can be created in multiple ways (code, content, art, music, video) and is stored and transacted in DCR
 
 
-How would the tagline change? 
+Our new narrative could be:
 
-* Decred is a community of digital doomsday preppers 
-* DCR is community money that is Secure, Adaptable, Sustainable 
+* Decred is an [online squad](https://otherinter.net/squad-wealth/) of sovereign individuals 
+* You can pledge allegiance by obtaining DCR (decentralized credits)
+* If you create value for the collective, you can get paid in DCR
+* Through staking DCR, you become a decision maker with voting rights 
+* Together, we make sure the project is Secure, Adaptable, Sustainable 
 
-
-#### How these changes impact other aspects of the site
-
-Change as little as possible. 
-
-To be determined. 
+Final copy should be determined in collaboration with the wider community. 
 
 
 ## About me
@@ -138,9 +147,9 @@ Decred community member since day 0.
 
 I aim to change as little of the existing website as possible, only on the homepage and in other strategic places such as link previews and social media descriptions.
 
-I will produce the new copy for free. The only costs go into implementation, to be done in collaboration with existing contractors such as @jholdstock.
+I will co-create the new copy with the community. For free. The only costs go into implementation, to be done in collaboration with existing contractors such as @jholdstock.
 
-As decred.org is in 12 languages, this new copy would have to be translated 11 times. I accept the estimate of $100 for each translation by Richard Red.
+As decred.org has 12 languages, this new copy would have to be translated 11 times. I used the estimate of $100 for each translation by Richard Red.
 
 ## Costs
 
