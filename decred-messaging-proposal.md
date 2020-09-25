@@ -111,20 +111,19 @@ The core insight, to me, is that we live in disruptive times.
 
 Let's explore this narrative:
 
-    Insights - in current disruptive times, our lives are increasingly moving to the digital realm. we cannot rely on old financial systems to preserve our wealth 
-https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/
-    Problem - wealth is best protected when people work together. however, online collaboration to create and protect value is difficult (especially with strangers)
+    Insights - in current disruptive times, we cannot rely on old systems to preserve our wealth and freedom
+    
+    Problem - online collaboration to generate and preserve wealth is difficult, especially with random strangers
+    
+    Solution - introducing Decred, a DAO of sovereign individuals, building the monetary sytems of the future
 
-    Solution - introducing Decred, a digital collective of sovereign individuals who create, store, transact and govern value in a trustless way 
-
-    How it works - value can be created in multiple ways (code, content, art, music, video) and is stored and transacted in DCR
-
+    How it works - Decred is using decentralized credits, DCR, to create, store, transact and govern value
 
 Our new narrative could be:
 
-* Decred is an [online squad](https://otherinter.net/squad-wealth/) of sovereign individuals 
-* You can pledge allegiance by obtaining DCR (decentralized credits)
-* Together, we make sure the project is Secure, Adaptable, Sustainable 
+* Decred is a DAO of sovereign individuals who work together
+* You can pledge allegiance by obtaining decentralized credits
+* Together, we make the project Secure, Adaptable, Sustainable 
 
 Final copy should be determined in collaboration with the wider community. 
 
