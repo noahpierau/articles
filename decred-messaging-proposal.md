@@ -112,7 +112,7 @@ The core insight, to me, is that we live in disruptive times.
 Let's explore this narrative:
 
     Insights - in current disruptive times, our lives are increasingly moving to the digital realm. we cannot rely on old financial systems to preserve our wealth 
-
+https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/
     Problem - wealth is best protected when people work together. however, online collaboration to create and protect value is difficult (especially with strangers)
 
     Solution - introducing Decred, a digital collective of sovereign individuals who create, store, transact and govern value in a trustless way 
@@ -127,6 +127,10 @@ Our new narrative could be:
 * Together, we make sure the project is Secure, Adaptable, Sustainable 
 
 Final copy should be determined in collaboration with the wider community. 
+
+![Screenshot](https://user-images.githubusercontent.com/988706/94253162-31a52200-ff25-11ea-886a-970744fe3cee.png)
+
+Example of the new website could look, by @svitekpavel
 
 
 ## About me
