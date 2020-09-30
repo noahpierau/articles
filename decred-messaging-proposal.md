@@ -107,7 +107,7 @@ Remember: multiple different narratives can coexist. However, we will be more po
 
 #### Target audience 
 
-Website copy should resonate with a regularq middle class, non-oppressed person living in a (semi) developed nation state. 
+Website copy should resonate with a regular middle class, non-oppressed person living in a (semi) developed nation state. 
 
 The average crypto perso...
 
