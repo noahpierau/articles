@@ -141,7 +141,7 @@ Let's explore this narrative:
 
     Problem - online collaboration to generate and preserve wealth is difficult, especially with random strangers
 
-    Solution - introducing Decred, a DAO that was created to build a fairer financial future for the next generation 
+    Solution - introducing Decred, a DAO that was created to build a better financial future for our children 
 
     How it works - Decred is basically an evolved version of Bitcoin:
     * instead of bitcoins we use decentralized credits (DCR)
