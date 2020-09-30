@@ -2,9 +2,9 @@
 
 ## Overview
 
-There is a [new RFP](https://proposals.decred.org/proposals/91becea) on Politiea that invites the Decred community to submit ideas around Decred's messaging. It includes an [example post](https://gist.github.com/RichardRed0x/22c584e7fd9413c1a3f3284069998892) that iterates some of the copy.
+There is a [new RFP](https://proposals.decred.org/proposals/91becea) on Politiea that invites the Decred community to submit ideas around Decred's messaging. 
 
-In this post, i will critically examine the suggested copy and collect alternative ways of telling Decred's message to the world.
+This post will explore alternative ways of telling Decred's message to the world.
 
 
 ## Thinking through messaging
