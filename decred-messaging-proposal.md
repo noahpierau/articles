@@ -109,7 +109,7 @@ Remember: multiple different narratives can coexist. However, we will be more po
 
 Website copy should resonate with a regular middle class, non-oppressed person living in a (semi) developed nation state. 
 
-The average crypto perso...
+The average crypto person...
 
 - knows about "money printing" 
 - thinks the financial system is rigged
@@ -122,16 +122,18 @@ and the younger archetype...
 - knows memes and internet culture
 - wants to show parents and friends how cool they are because they invest and make money online
 
-Both of these are looking for a blockchain project that is innovative and groundbreaking. Both of them probably feel alone in their daily lives and are looking for (online) communities they can belong to.
+Both archetypes are searching for blockchain projects that are innovative and groundbreaking. 
+
+Some of these people may feel lonely in their daily lives and are looking for (online) communities they can belong to.
 
 
 ## Possible new messaging 
 
 The core insight, to me, is that we live in disruptive times. All over the world we have seen protests, pandemics, rising unemployment, unprecedented money printing, and we are slowly witnessing a disintegration of our "normal" lifestyle.
 
-We don't know how the world will change in the future, but it doesn't look pretty.
+We don't know how the world will change, but it doesn't look pretty.
 
-"The best way to predict the future is to create it"
+The best way to predict the future is to build it together. 
 
 Let's explore this narrative:
 
