@@ -66,11 +66,11 @@ Technology can be world leading, but if the story doesn't connect, the tech alon
 
 #### Lessons to consider 
 
-- The order of text really matters - prioritise. 
-- Aim for reduction and simplicity at every stage - this will create impact. 
-- Consider the messaging is aimed at reaching and influencing - test it out. 
-- Narratives and marketing approaches to explain the project can shift over time. 
-- Multiple narratives may coexist, this is something we [see in Bitcoin](https://uncommoncore.co/visions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time/) as well. q
+- The order of text really matters - prioritize.
+- Aim for reduction and simplicity to create impact.
+- Messaging is aimed at reaching and influencing - test it out.
+- Narratives and marketing approaches constantly change over time. 
+- Multiple narratives may coexist, this is something we [see in Bitcoin](https://uncommoncore.co/visions-of-bitcoin-how-major-bitcoin-narratives-changed-over-time/) as well.
 
 #### Key questions 
 
@@ -80,8 +80,6 @@ Which audience is the narrative aimed at and why?
 
 
 ## Exploring new narratives 
-
-Everyone has been invited to participate in the messaging RFP. To me, this symbolizes the true spirit of Decred: a digital collective of sovereign individuals who work together to create value.
 
 Institutional investors such as [Blockhead Capital](https://www.blockheadcap.com/post/decred-investment-thesis) and [Placeholder](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) (among others) have outlined their DCR investment theses and community members have offered [alternative narrative paths](https://www.reddit.com/r/decred/comments/hg2a9k/forward_thinking_friday_decred_narratives_26_june/). All these different ways of explaing Decred are relevant for this RFP.
 
@@ -95,8 +93,6 @@ It seems that there are 4 messaging categories, each with a different target aud
 Remember: multiple different narratives can coexist. However, we will be more powerful when we create one overarching message that unifies the community. 
 
 #### Observations 
-
-Everyone has been invited to participate in the messaging RFP. To me, this symbolizes the true spirit of Decred: a digital collective of sovereign individuals who work together to create value.
 
 Institutional investors such as [Blockhead Capital](https://www.blockheadcap.com/post/decred-investment-thesis) and [Placeholder](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) (among others) have outlined their DCR investment theses and community members have offered [alternative narrative paths](https://www.reddit.com/r/decred/comments/hg2a9k/forward_thinking_friday_decred_narratives_26_june/). All these different ways of explaing Decred are relevant for this RFP.
 
