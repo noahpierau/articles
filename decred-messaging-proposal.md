@@ -78,19 +78,8 @@ What is the core insight at the heart of the message?
 
 Which audience is the narrative aimed at and why? 
 
-## Examination of current proposal 
 
-The proposed new messaging is: Stakeholder-Governed Sound Money. 
-
-Personally, i think this lacks creativity and vision. It's trying to *describe* the project but uses the wrong words. Let's examine why:
-
-1. every crypto project is stakeholder governed, so that's not unique to DCR. Especially when you use a wide definition of the term stakeholder (benevolent dictators also hold coins). The differentiator rather is: permissionless formal governance systems that are resistant to censorship.
-2. while i don't know much about sound money, in two definitions i could find via duckduckgo it says: "Sound money is money that is not prone to sudden appreciation or depreciation in purchasing power over the long term" and "money not liable to sudden appreciation or depreciation in value : stable money". It seems the word "sound" does not really apply to DCR in this definition, because the price at which DCR was valued has changed significantly over the last few years.
-3. the RFP also promintently mentions "fairness" which is another questionable word choice. The question "fair for whom? " is relevant here. Maybe Decred is only fair to people who bought DCR for a low price? Because for others it may not feel fair.
-
-To me it seems that the suggested messaging is aimed at people who already understand the project and its fundamentals, not at random newcomers. This will make it difficult to grow Decred beyond the DCR bubble.
-
-## Exploring alternatives 
+## Exploring new narratives 
 
 Everyone has been invited to participate in the messaging RFP. To me, this symbolizes the true spirit of Decred: a digital collective of sovereign individuals who work together to create value.
 
@@ -105,31 +94,63 @@ It seems that there are 4 messaging categories, each with a different target aud
 
 Remember: multiple different narratives can coexist. However, we will be more powerful when we create one overarching message that unifies the community. 
 
-### Possible new messaging 
+#### Observations 
 
-The core insight, to me, is that we live in disruptive times. 
+Everyone has been invited to participate in the messaging RFP. To me, this symbolizes the true spirit of Decred: a digital collective of sovereign individuals who work together to create value.
+
+Institutional investors such as [Blockhead Capital](https://www.blockheadcap.com/post/decred-investment-thesis) and [Placeholder](https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis) (among others) have outlined their DCR investment theses and community members have offered [alternative narrative paths](https://www.reddit.com/r/decred/comments/hg2a9k/forward_thinking_friday_decred_narratives_26_june/). All these different ways of explaing Decred are relevant for this RFP.
+
+It seems that there are 4 messaging categories, each with a different target audience: 
+
+1. cypherpunk, privacy, security, autonomy, freedom, decentralization 
+2. number go up, sound money, 21M max, store of value, profit, rewards
+3. infrastructure, open source, reliable software, quality developers 
+4. relatable stories, inspiration, positivity, celebrities, adoption
+
+Remember: multiple different narratives can coexist. However, we will be more powerful when we create one overarching message that unifies the community. Good stories contain words and concepts that everyone can relate to.
+
+#### Target audience 
+
+Website copy should resonate with a regularq middle class, non-oppressed person living in a (semi) developed nation state. 
+
+The average crypto perso...
+
+- knows about "money printing" 
+- thinks the financial system is rigged
+- has fantasies about an "economic reset"
+- feels governments are too bureaucratic 
+
+and the younger archetype...
+
+- is moderately skilled with computers
+- knows memes and internet culture
+- wants to show parents and friends how cool they are because they invest and make money online
+
+Both of these are looking for a blockchain project that is innovative and groundbreaking. Both of them probably feel alone in their daily lives and are looking for (online) communities they can belong to.
+
+
+## Possible new messaging 
+
+The core insight, to me, is that we live in disruptive times. All over the world we have seen protests, pandemics, rising unemployment, unprecedented money printing, and we are slowly witnessing a disintegration of our "normal" lifestyle.
+
+We don't know how the world will change in the future, but it doesn't look pretty.
+
+"The best way to predict the future is to create it"
 
 Let's explore this narrative:
 
-    Insights - in current disruptive times, we cannot rely on old systems to preserve our wealth and freedom
-    
+    Insights - We live in disruptive times. We can no longer rely on old systems to preserve our wealth and freedoms
+
     Problem - online collaboration to generate and preserve wealth is difficult, especially with random strangers
-    
-    Solution - introducing Decred, a DAO of sovereign individuals, building the monetary sytems of the future
 
-    How it works - Decred is using decentralized credits, DCR, to create, store, transact and govern value
+    Solution - introducing Decred, a DAO that was created to build a fairer financial future for the next generation 
 
-Our new narrative could be:
+    How it works - Decred is basically an evolved version of Bitcoin:
+    * instead of bitcoins we use decentralized credits (DCR)
+    * you can choose to stake DCR to participate in governance and earn rewards
+    * together, we make sure the project remains Secure, Adaptable, Sustainable 
 
-* Decred is a DAO of sovereign individuals who work together
-* You can pledge allegiance by obtaining decentralized credits
-* Together, we make the project Secure, Adaptable, Sustainable 
-
-Final copy should be determined in collaboration with the wider community. 
-
-![Screenshot](https://user-images.githubusercontent.com/988706/94253162-31a52200-ff25-11ea-886a-970744fe3cee.png)
-
-Example of the new website could look, by @svitekpavel
+Final narrative should be determined in collaboration with the wider community. 
 
 
 ## About me
@@ -151,6 +172,7 @@ I aim to change as little of the existing website as possible, only on the homep
 I will co-create the new copy with the community. For free. The only costs go into implementation, to be done in collaboration with existing contractors such as @jholdstock.
 
 As decred.org has 12 languages, this new copy would have to be translated 11 times. I used the estimate of $100 for each translation by Richard Red.
+
 
 ## Costs
 
