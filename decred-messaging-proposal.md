@@ -156,7 +156,7 @@ Final narrative should be determined in collaboration with the wider community.
 
 [BUTTONS] watch video + download wallet
 
-[COMMAND-LINE INTERFACE]
+[SIMPLE TEXT]
 
 We live in disruptive times.
 
@@ -182,7 +182,7 @@ Instead of bitcoins we use decentralized credits (DCR).
 
 You can stake DCR to participate in governance and earn rewards.
 
-Together we make sure the project is Secure, Adaptable, Sustainable.
+Together we make sure that the project is Secure, Adaptable, Sustainable.
 
 [BOXES] (remain unchanged. perhaps edit some of the copy to include Richard's additions) 
 
@@ -194,7 +194,7 @@ Together we make sure the project is Secure, Adaptable, Sustainable.
 
 My story: [noahpierau.github.io](https://noahpierau.github.io/)
 
-Decred community member since day 0.
+Community member since day 0.
 
 - I received the Decred airdrop and never sold a single credit from it.
 - I worked with _ingsoc and jz to build Decred's community from the ground up. 
