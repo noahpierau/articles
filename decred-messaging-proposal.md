@@ -180,6 +180,8 @@ Decred is a DAO that was created to evolve Bitcoin.
 
 Instead of bitcoins we use decentralized credits (DCR).
 
+DCR is a hedge to BTC, it can be used as a store of value. 
+
 You can stake DCR to participate in governance and earn rewards.
 
 Together we make sure that the project is Secure, Adaptable, Sustainable.
