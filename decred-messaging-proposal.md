@@ -154,7 +154,7 @@ Final narrative should be determined in collaboration with the wider community.
 
 TAGLINE: Money Evolved 
 
-CLICK: watch video + download wallet
+BUTTONS: watch video + download wallet
 
 COMMAND-LINE INTERFACE:
 
@@ -184,8 +184,11 @@ You can stake DCR to participate in governance and earn rewards.
 
 Together we make sure the project is Secure, Adaptable, Sustainable.
 
-BOXES: (order remains unchanged. perhaps edit some of the copy to include Richard's additions) 
+BOXES: (remain unchanged. perhaps edit some of the copy to include Richard's additions) 
 
+LATEST NEWS: (unchanged) 
+
+FOOTER: (add telegram)
 
 ## About me
 
