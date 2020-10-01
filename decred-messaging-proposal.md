@@ -150,6 +150,42 @@ Let's explore this narrative:
 
 Final narrative should be determined in collaboration with the wider community. 
 
+#### Suggested website copy
+
+TAGLINE: Money Evolved 
+
+CLICK: watch video + download wallet
+
+COMMAND-LINE INTERFACE:
+
+We live in disruptive times.
+
+We can no longer trust our banks.
+
+Our national fiat currencies are controlled by elites. 
+
+Satoshi Nakamoto created Bitcoin to offer an alternative. 
+
+Bitcoin is better money, but it has challenges: 
+
+- it relies on complex code which must be maintained
+- it relies on honest hashing power to secure the network 
+- it relies on external capital as a source of funding 
+
+Decentralized collaboration to improve money is difficult. 
+
+This is why we need Decred. 
+
+Decred is a DAO that was created to evolve Bitcoin. 
+
+Instead of bitcoins we use decentralized credits (DCR).
+
+You can stake DCR to participate in governance and earn rewards.
+
+Together we make sure the project is Secure, Adaptable, Sustainable.
+
+BOXES: (order remains unchanged. perhaps edit some of the copy to include Richard's additions) 
+
 
 ## About me
 
@@ -165,7 +201,7 @@ Decred community member since day 0.
 
 ## Estimate of costs for changes + help required from others
 
-I aim to change as little of the existing website as possible, only on the homepage and in other strategic places such as link previews and social media descriptions.
+I aim to change as little of the existing website as possible, only on the homepage and in other strategic places such as copy in link previews and social media descriptions.
 
 I will co-create the new copy with the community. For free. The only costs go into implementation, to be done in collaboration with existing contractors such as @jholdstock.
 
