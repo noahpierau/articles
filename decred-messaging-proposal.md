@@ -152,11 +152,11 @@ Final narrative should be determined in collaboration with the wider community.
 
 #### Suggested website copy
 
-TAGLINE: Money Evolved 
+[TAGLINE] Decred: Money Evolved
 
-BUTTONS: watch video + download wallet
+[BUTTONS] watch video + download wallet
 
-COMMAND-LINE INTERFACE:
+[COMMAND-LINE INTERFACE]
 
 We live in disruptive times.
 
@@ -184,11 +184,11 @@ You can stake DCR to participate in governance and earn rewards.
 
 Together we make sure the project is Secure, Adaptable, Sustainable.
 
-BOXES: (remain unchanged. perhaps edit some of the copy to include Richard's additions) 
+[BOXES] (remain unchanged. perhaps edit some of the copy to include Richard's additions) 
 
-LATEST NEWS: (unchanged) 
+[LATEST NEWS] (unchanged) 
 
-FOOTER: (add telegram)
+[FOOTER] (add telegram)
 
 ## About me
 
