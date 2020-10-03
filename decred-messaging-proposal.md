@@ -143,8 +143,8 @@ Let's explore this narrative:
 
     Solution - introducing Decred, a DAO that was created to build a better financial future for our children 
 
-    How it works - Decred is basically an evolved version of Bitcoin:
-    * instead of bitcoins we use decentralized credits (DCR)
+    How it works - Decred is basically an evolved version of money:
+    * instead of coins or cash we use decentralized credits (DCR)
     * you can choose to stake DCR to participate in governance and earn rewards
     * together, we make sure the project remains Secure, Adaptable, Sustainable 
 
@@ -206,7 +206,7 @@ Community member since day 0.
 
 I aim to change as little of the existing website as possible, only on the homepage and in other strategic places such as copy in link previews and social media descriptions.
 
-I will co-create the new copy with the community. For free. The only costs go into design and qimplementation, to be done in collaboration with existing contractors such as @jholdstock.
+I will co-create the new copy with the community. For free. The only costs go into design and implementation, to be done in collaboration with existing contractors such as @jholdstock.
 
 As decred.org has 12 languages, this new copy would have to be translated 11 times. I used the estimate of $100 for each translation by Richard Red.
 
