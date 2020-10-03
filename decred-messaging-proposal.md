@@ -161,9 +161,11 @@ Final narrative should be determined in collaboration with the wider community.
 We live in disruptive times.
 
 We can no longer trust our banks.
+
 National fiat currencies are controlled by elites. 
 
 To create a better future, we need to evolve money.
+
 The evolution of money requires global collaboration. 
 
 This is why we need Decred. 
@@ -171,12 +173,14 @@ This is why we need Decred.
 Decred is a decentralized, autonomous organization (DAO). 
 
 We develop develop crypto technology for the public benefit.
-Useful applications: [Decred DEX, Politeia, Lighting Network](github.com/decred). 
+
+Useful applications: [Decred DEX, Politeia, Lighting Network](https://github.com/decred/). 
 
 Instead of coins or cash we use decentralized credits (DCR).
+
 DCR can be used as a store of value and medium of exchange. 
 
-You can stake DCR to participate in governance and earn rewards.
+You can stake DCR to get votes in governance and earn rewards.
 
 Together we make sure that the project is Secure, Adaptable, Sustainable.
 
@@ -202,7 +206,7 @@ Community member since day 0.
 
 I aim to change as little of the existing website as possible, only on the homepage and in other strategic places such as copy in link previews and social media descriptions.
 
-I will co-create the new copy with the community. For free. The only costs go into implementation, to be done in collaboration with existing contractors such as @jholdstock.
+I will co-create the new copy with the community. For free. The only costs go into design and qimplementation, to be done in collaboration with existing contractors such as @jholdstock.
 
 As decred.org has 12 languages, this new copy would have to be translated 11 times. I used the estimate of $100 for each translation by Richard Red.
 
