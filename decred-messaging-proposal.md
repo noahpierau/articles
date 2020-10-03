@@ -156,37 +156,31 @@ Final narrative should be determined in collaboration with the wider community.
 
 [BUTTONS] watch video + download wallet
 
-[SIMPLE TEXT]
+[SIMPLE TEXT] (make it look fancy) 
 
 We live in disruptive times.
 
 We can no longer trust our banks.
+National fiat currencies are controlled by elites. 
 
-Our national fiat currencies are controlled by elites. 
-
-Satoshi Nakamoto created Bitcoin to offer an alternative. 
-
-Bitcoin is better money, but it has challenges: 
-
-- it relies on complex code which must be maintained
-- it relies on honest hashing power to secure the network 
-- it relies on external capital as a source of funding 
-
-Decentralized collaboration to improve money is difficult. 
+To create a better future, we need to evolve money.
+The evolution of money requires global collaboration. 
 
 This is why we need Decred. 
 
-Decred is a DAO that was created to evolve Bitcoin. 
+Decred is a decentralized, autonomous organization (DAO). 
 
-Instead of bitcoins we use decentralized credits (DCR).
+We develop develop crypto technology for the public benefit.
+Useful applications: [Decred DEX, Politeia, Lighting Network](github.com/decred). 
 
-DCR is a hedge to BTC, it can be used as a store of value. 
+Instead of coins or cash we use decentralized credits (DCR).
+DCR can be used as a store of value and medium of exchange. 
 
 You can stake DCR to participate in governance and earn rewards.
 
 Together we make sure that the project is Secure, Adaptable, Sustainable.
 
-[BOXES] (remain unchanged. perhaps edit some of the copy to include Richard's additions) 
+[BOXES] (unchanged)
 
 [LATEST NEWS] (unchanged) 
 
@@ -217,8 +211,8 @@ As decred.org has 12 languages, this new copy would have to be translated 11 tim
 
 | Item           | Estimate | Maximum |
 |----------------|----------|---------|
-| Design         | 300      | 300     |
+| Design         | 200      | 350     |
 | Translation    | 1100     | 1400    |
-| Implementation | 400      | 700     |
-| Total          | 1800     | 2400    |
+| Implementation | 200      | 350     |
+| Total          | 1500     | 2100    |
 
