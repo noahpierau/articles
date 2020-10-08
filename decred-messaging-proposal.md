@@ -1,10 +1,12 @@
-# Decred messaging proposal - community money
+# Decred messaging proposal - the evolution of money
 
 ## Overview
 
 There is a [new RFP](https://proposals.decred.org/proposals/91becea) on Politiea that invites the Decred community to submit ideas around Decred's messaging. 
 
-This post will explore alternative ways of telling Decred's message to the world.
+This post will explore alternative ways of telling Decred's message to the world. 
+
+The proposal [is live](https://proposals.decred.org/proposals/02d9fc2) on Politeia.
 
 
 ## Thinking through messaging
