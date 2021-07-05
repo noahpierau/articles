@@ -222,3 +222,4 @@ As decred.org has 12 languages, this new copy would have to be translated 11 tim
 | Implementation | 200      | 350     |
 | Total          | 1500     | 2100    |
 
+ 
