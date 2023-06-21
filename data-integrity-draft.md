@@ -34,9 +34,9 @@ Moreover, public blockchains provide an opportunity to foster a community-driven
 
 
 ## What are the applications of data integrity protocols?
-The world is in need of more data protocols that preserve data integrity. Interoperable data integrity protocols could enable peer-to-peer data collection and exchange. With these protocols it would be possible to have full control over your data, share it with trusted partners, and govern it independently. This is essential to achieve sovereignty in the digital economy.
+The world is in need of more protocols that uphold data integrity. Interoperable data integrity protocols could enable peer-to-peer data collection and exchange. With these protocols it would be possible to have full control over our data, share it with trusted partners, and govern it independently. This is essential to achieve sovereignty in the digital economy.
 
-Data integrity protocols enable various applications Some examples:
+Data integrity protocols enable various applications. Some examples are:
 
 - create unforgeable invoices, avoid fraud
 - combat AI-generated deep fakes and impersonation
@@ -44,11 +44,14 @@ Data integrity protocols enable various applications Some examples:
 - issue and verify digital certificates for various use cases
 - allow whistleblowers to release sensitive data to the public
 - collect intelligence reports about ongoing conflicts or crises
-- prove where information has originated, to protect intellectual property
+- prove where information has originated to protect intellectual property
 - form trusted peer-to-peer networks, enabling decentralized decision-making
 
-## Conclusion (in progress)
-Data integrity is an ongoing process, demanding a daily commitment to data stewardship and providing stakeholders with the highest quality, accurate, and complete data. By upholding data integrity, organizations safeguard their foundation for impactful decision-making.
+## Conclusion
+Data is indispensable in the digital age. Organizations should prioritize transparency and accountability to ensure that their data is complete, accurate and of the highest quality. By upholding data integrity, organizations safeguard their foundation for impactful decision-making.
+
+Maintaining data integrity is an ongoing process, demanding a daily commitment to data stewardship. We are in need of more data protocols that help uphold the integrity of our data. By doing so, we can pave the way for a more prosperous digital future.
+
 
 [^1]: https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Marketing%20and%20Sales/Our%20Insights/Five%20facts%20How%20customer%20analytics%20boosts%20corporate%20performance/Datamatics.pdf
 
