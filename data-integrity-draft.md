@@ -23,7 +23,7 @@ Besides transparency, the second priority is accountability. Data protocols need
 
 As of now, there are no widely adopted protocols to check whether data has been manipulated or corrupted, attributed to the wrong author, or attributed to the wrong time. These protocols could be powered by blockchain technology. Public blockchains are decentralized, immutable, and transparent ledgers that can record timestamps in a secure and tamper-proof manner. The immutability of a blockchain ensures that every timestamp is permanent, discouraging fraudulent activities and promoting accountability. 
 
-If data protocols used the same standards and formats, it could open up the possibility to foster a community-driven approach to data integrity. By allowing multiple parties to participate in the verification and validation processes, we could develop decentralized mechanisms for maintaining the integrity of data. With open source protocols it will be possible to have full control over our data and become independent from centralized service providers.
+If different data protocols used the same standards and formats, it could open up the possibility to foster a community-driven approach to data integrity. By allowing multiple parties to participate in the verification and validation processes, we could develop decentralized mechanisms for maintaining the integrity of data. With open source protocols it will be possible to have full control over our data and become independent from centralized service providers.
 
 
 ## What are the applications of data integrity protocols?
