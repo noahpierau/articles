@@ -42,12 +42,11 @@ Data integrity protocols enable various applications. Some examples are:
 - allow whistleblowers to release sensitive data to the public
 - collect intelligence reports about ongoing conflicts or crises
 - prove where information has originated to protect intellectual property
-- form trusted peer-to-peer networks, enabling decentralized decision-making
+- form trusted peer-to-peer datasets, enabling decentralized decision-making
 
 ## Conclusion
-Data is indispensable in the digital age. Organizations should prioritize transparency and accountability to ensure that their data is complete, accurate and of the highest quality. By upholding data integrity, organizations safeguard their foundation for impactful decision-making.
+Data is indespensible in the digital age, demanding a daily commitment to integrity. Organizations should prioritize transparency and accountability to ensure that their data is complete, accurate and of the highest quality. We are in need of open source protocols that help us maintain and verify data integrity. By upholding the integrity of data, organizations and individuals safeguard their foundation for reliabble and trustworthy decisions about our common future.
 
-Maintaining data integrity is an ongoing process, demanding a daily commitment to data stewardship. We are in need of more protocols that help upkeep data integrity. By doing so, we can pave the way for a more prosperous digital future.
 
 
 [^1]: https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Marketing%20and%20Sales/Our%20Insights/Five%20facts%20How%20customer%20analytics%20boosts%20corporate%20performance/Datamatics.pdf
