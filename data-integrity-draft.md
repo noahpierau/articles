@@ -25,9 +25,10 @@ As of now, there are no widely adopted protocols to check whether data has been 
 
 If data protocols used the same standards and formats, it could open up the possibility to foster a community-driven approach to data integrity. By allowing multiple parties to participate in the verification and validation processes, we could develop decentralized mechanisms for maintaining the integrity of data. 
 
+With open source protocols it would be possible to have full control over our data, share it with trusted partners, and become independent from centralized service providers.
+
 
 ## What are the applications of data integrity protocols?
-Interoperable data protocols could enable peer-to-peer data collection and exchange. With these protocols it would be possible to have full control over our data, share it with trusted partners, and become independent from centralized service providers.
 
 Data integrity protocols enable various applications. Some examples are:
 
