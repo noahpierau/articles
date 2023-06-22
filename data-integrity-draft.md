@@ -13,7 +13,7 @@ Governments play an important role in shaping and regulating the data ecosystem.
 
 Apart from data protection, we should also be concerned with data integrity. According to Harvard, data integrity relates to the accuracy, completeness, and quality of data as it is maintained over time and across formats[^7]. In a future that is increasingly filled with trolls, misinformation, fake news and AI-generated content, preserving the integrity of data is an essential and ongoing process that requires special attention.
 
-There are no widely adopted processes to check whether data has been manipulated or corrupted, attributed to the wrong author, or attributed to the wrong time. Additionally, consumers of data are incapable of verifying whether centralized service providers have altered their (meta)data. This could lead to a world full of unreliable or untrustworthy information, one in which we don’t know how to conclude what is true.
+There are no widely adopted data integrity protocols to check whether data has been manipulated or corrupted, attributed to the wrong author, or attributed to the wrong time. Additionally, consumers of data are incapable of verifying whether centralized service providers have altered their (meta)data. This could lead to a world full of unreliable or untrustworthy information, one in which we don’t know how to conclude what is true.
 
 
 ## How to achieve data integrity?
