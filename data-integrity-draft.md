@@ -17,8 +17,7 @@ There are no widely adopted protocols to check whether data has been manipulated
 
 
 ## How to achieve data integrity?
-
-First, let’s unpack the three aspects of data integrity as defined by Harvard[^7]. Completeness ensures that all relevant information is captured, leaving no gaps or missing pieces. Accuracy means that the data is free from errors or inconsistencies, and that it provides a true representation of the phenomenon or subject being observed. The quality of data means that it is well-structured and easily accessible, ensuring that it can be effectively updated over time and that it serves as a robust foundation for subsequent analyses.
+First things first, let’s unpack the three aspects of data integrity as defined by Harvard[^7]. Completeness means that all relevant information is captured, leaving no gaps or missing pieces. Accuracy means that the data is free from errors or inconsistencies, and that it provides a true representation of the phenomenon or subject being observed. The quality of data means that it is well-structured and easily accessible, ensuring that it can be effectively updated over time and that it serves as a robust foundation for subsequent analyses.
 
 To achieve data integrity, organizations should prioritize transparency and accountability. The journey begins during the data collection phase. Data collectors need to be transparent about how the data was obtained. Communication and education play a vital role, with the need to implement best practices and to ensure that the methods employed are well-documented and publicly accessible. This includes detailing the sources of data, the tools and technologies utilized, and any assumptions or limitations associated with the collection process.
 
