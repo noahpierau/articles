@@ -13,20 +13,17 @@ Governments play an important role in shaping and regulating the data ecosystem.
 
 Apart from data protection we should also be concerned with data integrity. Achieving and maintaining data integrity is paramount for organizations: data-driven decisions are only as strong as the integrity of the underlying data. According to Harvard, data integrity relates to the accuracy, completeness, and quality of data as it is maintained over time and across formats[^7]. Completeness means that all relevant information is captured, leaving no gaps or missing pieces. Accuracy means that the data is free from errors or inconsistencies, and that it provides a true representation of the phenomenon or subject being observed. The quality of data means that it is well-structured and easily accessible, so it can be effectively updated over time and serve as a robust foundation for decision-making.
 
-In a future that is increasingly filled with trolls, misinformation, fake news and AI-generated content, preserving the integrity of data is an essential and ongoing process that requires our special attention. There are no widely adopted protocols to check whether data has been manipulated or corrupted, attributed to the wrong author, or attributed to the wrong time. Additionally, consumers of data are incapable of verifying whether centralized service providers have altered the (meta)data. This could lead to unreliable or untrustworthy information, and ultimately to a world in which we don’t know what's real. 
+In a future that is increasingly filled with trolls, misinformation, fake news and AI-generated content, preserving the integrity of data is an essential and ongoing process that requires our special attention. Additionally, consumers of data are incapable of verifying whether centralized service providers have altered the (meta)data. This could lead to unreliable or untrustworthy information, and ultimately to a world in which we don’t know what's real. 
 
 ## How to achieve data integrity?
 To achieve data integrity, organizations should prioritize transparency and accountability. The journey begins during the data collection phase. Data collectors need to be transparent about how the data was obtained. Communication and education play a vital role, with a focus on implementing best practices and employing methods that are well-documented and publicly accessible. This includes detailing the sources of data, the tools and technologies utilized, and any assumptions or limitations associated with the collection process.
 
-Besides transparency, the second priority is accountability. Data protocols need a layer of accountability which makes it impossible to change information unnoticed. This adds an additional line of defense. A key aspect of accountability is keeping track of all entities (or accounts) that update or manipulate the data, including any modifications or alterations, along with timestamps indicating when these changes occurred. This creates an audit trail, allowing for traceability of any potential errors.
+Besides transparency, the second priority is accountability. Data protocols need a layer of accountability which makes it impossible to change information unnoticed. This adds an additional line of defense. A key aspect of accountability is keeping track of all entities (or accounts) that update or manipulate the data, including any modifications or alterations, along with timestamps indicating when these changes occurred. This creates an audit trail, allowing for traceability of potential errors. 
 
-To enhance accountability, the use of blockchain technology presents a promising solution. Public blockchains are decentralized, immutable, and transparent ledgers that can record timestamps in a secure and tamper-proof manner. The immutability of a blockchain ensures that every timestamp is permanent, discouraging fraudulent activities and promoting accountability. 
-
-Moreover, public blockchains provide an opportunity to foster a community-driven approach to data integrity. By allowing multiple parties to participate in the verification and validation processes, we could develop decentralized mechanisms for maintaining the integrity of data.
-
+Unfortunately there are no widely adopted protocols to check whether data has been manipulated or corrupted, attributed to the wrong author, or attributed to the wrong time. These protocols are needed to maintain data integrity. 
 
 ## What are the applications of data integrity protocols?
-The world is in need of more protocols that uphold data integrity. Interoperable data integrity protocols could enable peer-to-peer data collection and exchange. With these protocols it would be possible to have full control over our data, share it with trusted partners, and govern it independently. This is essential to achieve sovereignty in the digital economy.
+Interoperable data protocols could enable peer-to-peer data collection and exchange. With these protocols it would be possible to have full control over our data, share it with trusted partners, and govern it independently.
 
 Data integrity protocols enable various applications. Some examples are:
 
@@ -38,6 +35,8 @@ Data integrity protocols enable various applications. Some examples are:
 - collect intelligence reports about ongoing conflicts or crises
 - prove where information has originated to protect intellectual property
 - form trusted peer-to-peer datasets, enabling decentralized decision-making
+
+Data integrity protocols could be powered by blockchain technology. Public blockchains are decentralized, immutable, and transparent ledgers that can record timestamps in a secure and tamper-proof manner. The immutability of a blockchain ensures that every timestamp is permanent, discouraging fraudulent activities and promoting accountability. Moreover, public blockchains provide an opportunity to foster a community-driven approach to data integrity. By allowing multiple parties to participate in the verification and validation processes, we could develop decentralized mechanisms for maintaining the integrity of data.
 
 ## Conclusion
 Data is indispensible in the digital age, demanding a daily commitment to integrity. Organizations should prioritize transparency and accountability to ensure that their data is complete, accurate and of the highest quality. 
