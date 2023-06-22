@@ -25,7 +25,7 @@ To achieve data integrity, organizations should prioritize transparency and acco
 
 Beyond transparency, accountability is the second crucial element in achieving data integrity. Data integrity protocols need a layer of accountability which makes it impossible to change informationn unnoticed. This adds an additional line of defense. A key aspect of accountability is keeping track of all entities (or accounts) that update or manipulate the data, including any modifications or alterations, along with timestamps indicating when these changes occurred. This creates an audit trail, allowing for traceability of any potential errors.
 
-To enhance accountability, the use of blockchain technology presents a promising solution. Public blockchains are decentralized, immutable, and transparent ledgers that can record timestamps in a secure and tamper-proof manner. The immutability of a blockchain timestamp ensures that any changes made to the data are easily traceable, discouraging fraudulent activities and promoting accountability. 
+To enhance accountability, the use of blockchain technology presents a promising solution. Public blockchains are decentralized, immutable, and transparent ledgers that can record timestamps in a secure and tamper-proof manner. The immutability of a blockchain ensures that every timestamp is permanent, discouraging fraudulent activities and promoting accountability. 
 
 Moreover, public blockchains provide an opportunity to foster a community-driven approach to data integrity. By allowing multiple parties to participate in the verification and validation processes, we could develop decentralized mechanisms for maintaining the integrity of data.
 
