@@ -5,7 +5,7 @@ Data integrity refers to the reliability and trustworthiness of data, meaning th
 
 
 ## Why is data integrity important?
-It's easy to illustrate the importance of data. According to an older report by McKinsey, organizations that use data to drive their decisions are reaping the benefits[^1]. Data-driven organizations are 23 times more likely to outperform competitors in customer acquisition, 9 times more likely to retain customers, and up to 19 times more profitable.
+It's not hard to illustrate the importance of data. According to an older report by McKinsey, organizations that use data to drive their decisions are reaping the benefits[^1]. Data-driven organizations are 23 times more likely to outperform competitors in customer acquisition, 9 times more likely to retain customers, and up to 19 times more profitable.
 
 However, the data-driven attitude of organizations has a significant downside: personal data is quickly becoming a commodity which is collected and sold without consent. Individuals want more visibility and control over how their personal data is used and stored[^2]. Today, the way companies gather and manage individual data varies by region and platform. The ecosystem lacks a consistent and transparent way of gathering these permissions, and individuals are frustrated.
 
