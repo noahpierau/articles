@@ -23,7 +23,7 @@ Besides transparency, the second priority is accountability. Data protocols need
 Unfortunately there are no widely adopted protocols to check whether data has been manipulated or corrupted, attributed to the wrong author, or attributed to the wrong time. These protocols are needed to maintain data integrity. 
 
 ## What are the applications of data integrity protocols?
-Interoperable data protocols could enable peer-to-peer data collection and exchange. With these protocols it would be possible to have full control over our data, share it with trusted partners, and govern it independently.
+Interoperable data protocols could enable peer-to-peer data collection and exchange. With these protocols it would be possible to have full control over our data, share it with trusted partners, and become independent from centralized service providers.
 
 Data integrity protocols enable various applications. Some examples are:
 
