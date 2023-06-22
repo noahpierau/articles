@@ -15,12 +15,14 @@ Apart from data protection we should also be concerned with data integrity. Achi
 
 In a future that is increasingly filled with trolls, misinformation, fake news and AI-generated content, preserving the integrity of data is an essential and ongoing process that requires our special attention. Additionally, consumers of data are incapable of verifying whether centralized service providers have altered the (meta)data. This could lead to unreliable or untrustworthy information, and ultimately to a world in which we don’t know what's real. 
 
+
 ## How to achieve data integrity?
 To achieve data integrity, organizations should prioritize transparency and accountability. The journey begins during the data collection phase. Data collectors need to be transparent about how the data was obtained. Communication and education play a vital role, with a focus on implementing best practices and employing methods that are well-documented and publicly accessible. This includes detailing the sources of data, the tools and technologies utilized, and any assumptions or limitations associated with the collection process.
 
 Besides transparency, the second priority is accountability. Data protocols need a layer of accountability which makes it impossible to change information unnoticed. This adds an additional line of defense. A key aspect of accountability is keeping track of all entities (or accounts) that update or manipulate the data, including any modifications or alterations, along with timestamps indicating when these changes occurred. This creates an audit trail, allowing for traceability of potential errors. 
 
-Unfortunately there are no widely adopted protocols to check whether data has been manipulated or corrupted, attributed to the wrong author, or attributed to the wrong time. These protocols are needed to maintain data integrity. 
+As of now, there are no widely adopted protocols to check whether data has been manipulated or corrupted, attributed to the wrong author, or attributed to the wrong time. These protocols could be powered by blockchain technology. Public blockchains are decentralized, immutable, and transparent ledgers that can record timestamps in a secure and tamper-proof manner. The immutability of a blockchain ensures that every timestamp is permanent, discouraging fraudulent activities and promoting accountability. Moreover, public blockchains provide an opportunity to foster a community-driven approach to data integrity. By allowing multiple parties to participate in the verification and validation processes, we could develop decentralized mechanisms for maintaining the integrity of data. 
+
 
 ## What are the applications of data integrity protocols?
 Interoperable data protocols could enable peer-to-peer data collection and exchange. With these protocols it would be possible to have full control over our data, share it with trusted partners, and become independent from centralized service providers.
@@ -36,7 +38,6 @@ Data integrity protocols enable various applications. Some examples are:
 - prove where information has originated to protect intellectual property
 - form trusted peer-to-peer datasets, enabling decentralized decision-making
 
-Data integrity protocols could be powered by blockchain technology. Public blockchains are decentralized, immutable, and transparent ledgers that can record timestamps in a secure and tamper-proof manner. The immutability of a blockchain ensures that every timestamp is permanent, discouraging fraudulent activities and promoting accountability. Moreover, public blockchains provide an opportunity to foster a community-driven approach to data integrity. By allowing multiple parties to participate in the verification and validation processes, we could develop decentralized mechanisms for maintaining the integrity of data.
 
 ## Conclusion
 Data is indispensible in the digital age, demanding a daily commitment to integrity. Organizations should prioritize transparency and accountability to ensure that their data is complete, accurate and of the highest quality. 
