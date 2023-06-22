@@ -47,7 +47,7 @@ Data integrity protocols enable various applications. Some examples are:
 ## Conclusion
 Data is indispensable in the digital age. Organizations should prioritize transparency and accountability to ensure that their data is complete, accurate and of the highest quality. By upholding data integrity, organizations safeguard their foundation for impactful decision-making.
 
-Maintaining data integrity is an ongoing process, demanding a daily commitment to data stewardship. We are in need of more data protocols that help uphold the integrity of our data. By doing so, we can pave the way for a more prosperous digital future.
+Maintaining data integrity is an ongoing process, demanding a daily commitment to data stewardship. We are in need of more protocols that help upkeep data integrity. By doing so, we can pave the way for a more prosperous digital future.
 
 
 [^1]: https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Marketing%20and%20Sales/Our%20Insights/Five%20facts%20How%20customer%20analytics%20boosts%20corporate%20performance/Datamatics.pdf
