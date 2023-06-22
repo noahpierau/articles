@@ -1,7 +1,7 @@
 # Data Integrity Draft
 In the digital world of today, data has emerged as the lifeblood of various industries and sectors. It powers crucial decision-making processes, enables innovation, and supports economic growth. However, the reliance on data is only as strong as the integrity of that data. 
 
-Data integrity refers to the reliability and trustworthiness of data, meaning that the dataset is complete, accurate, and of high quality. In order to achieve this, it is imperative to communicate transparently about data collection methods and to establish accountability measures. This essay explores the significance of data integrity and it offers suggestions on how to achieve it.
+Data integrity refers to the reliability and trustworthiness of data, meaning that the dataset is complete, accurate, and of high quality. This essay explores the significance of data integrity and it offers suggestions on how to achieve it.
 
 
 ## Why is data integrity important?
